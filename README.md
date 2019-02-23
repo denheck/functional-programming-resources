@@ -19,5 +19,14 @@
 ## Other
 - [Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
 
+## Training
+- [Scala Exercises](https://www.scala-exercises.org/)
+
+## REPLs
+- [Scala Fiddle](https://scalafiddle.io/)
+
+## Scala
+[Getting Started in Scala](https://gist.github.com/djspiewak/cb72c41ac335a3a9b28b3307be04aa43)
+
 ## Not Exactly Functional
 - [Destroy All Software Screencats](https://www.destroyallsoftware.com/screencasts)
