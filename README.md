@@ -25,6 +25,9 @@
 ## REPLs
 - [Scala Fiddle](https://scalafiddle.io/)
 
+## OCaml
+- [Functional Programming in OCaml](http://www.cs.cornell.edu/courses/cs3110/2018fa/textbook/)
+
 ## Scala
 [Getting Started in Scala](https://gist.github.com/djspiewak/cb72c41ac335a3a9b28b3307be04aa43)
 
